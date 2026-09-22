@@ -28,7 +28,7 @@ resultado = tk.Label(
     text="",font=Font(size=14,weight='bold',family='Cascadia Code')
     )
 
-# Adicionando o botão
+# Adicionando a caixa de resposta
 
 word = tk.Entry(
     janela,width=12,
